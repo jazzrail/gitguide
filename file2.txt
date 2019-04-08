@@ -1,2 +1,3 @@
 Content added using echo, then text in quotes then pipe > and file name
 Some more content
+Last items
