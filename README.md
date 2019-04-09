@@ -1,6 +1,6 @@
-##Git Demo
+## Git Demo
 
-#Made changes locally
+# Made changes locally
 Git Demo
 
 Edited on GitHub
